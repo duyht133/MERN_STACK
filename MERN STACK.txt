@@ -1,0 +1,9 @@
+MERN STACK (mongodb,nodejs,reactjs,express)
+
+Phân tích back-end
+
+1: phân tích tài nguyên.
+2: thiết kế api.
+3: thiết kế function tương ứng với từng api.
+client <=> server <=> route <=> controller <=> database. 
+4: thống nhất chung về cấu trúc phản hồi.
